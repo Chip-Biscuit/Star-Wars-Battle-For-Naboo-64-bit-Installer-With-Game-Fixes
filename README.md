@@ -86,9 +86,7 @@ Unlocks modern GPU-reported resolutions including:
 Adds:
 - Anti-aliasing
 - Anisotropic filtering
-- Crash fixes
 - DX7 → DX9 translation
-- GPU compatibility
 - Fix for the **thruster bug** on >60Hz monitors
   
 ---
