@@ -90,7 +90,7 @@ Adds:
 - DX7 → DX9 translation
 - GPU compatibility
 - Fix for the **thruster bug** on >60Hz monitors
-- 
+  
 ---
 
 ### ThirteenAG’s Ultimate ASI Loader
