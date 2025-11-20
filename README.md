@@ -59,8 +59,8 @@ No game files are included or distributed. You must mount the disc before runnin
 
 Common mount locations:
 ```
-D:
-E:
+D:\
+E:\
 F:\
 ```
 
