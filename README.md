@@ -17,7 +17,7 @@ Reverse Engineering • Programming • Patching • Game Preservation • DLL C
 
 A complete, preservation-grade 64-bit replacement installer for the **original 1999 PC release**, rebuilt from scratch for modern versions of Windows.
 
-This is the **definitive way to install and play** *Star Wars: Episode I – Battle for Naboo* on modern hardware, with full widescreen and 4K support, accurate FOV, DX9 translation, stability fixes (all optional), and resolution unlocking.
+This is the **definitive way to install and play** *Star Wars: Episode I – Battle for Naboo* on modern hardware, with full widescreen support, DX9 translation, stability fixes (all optional), and resolution unlocking.
 
 ---
 
