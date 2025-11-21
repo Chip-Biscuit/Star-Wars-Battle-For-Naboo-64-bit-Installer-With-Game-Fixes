@@ -112,22 +112,12 @@ Corrects the aspect ratio and field of view on all widescreen and ultrawide reso
 Width=1920
 Height=1080
 
-or
-
-Width=3840
-Height=2160
-
-etc 
 ```
 ### ChipResolution – Custom Resolution Support
 Allows entering resolutions such as:
 ```
 1920x1080
 
-or
-
-3840x2160 (4K)
-etc
 ```
 The installer writes these directly to the game’s registry key.
 
@@ -146,6 +136,9 @@ If these values do not match:
 - The FOV/aspect ratio may be calculated for another  
 - This results in stretching, squashing, and incorrect FOV  
 
+# Suggestion 
+
+It seems that the game does not like to go past 1920 x 1080 so just leave the configuration files as they are set up for you. if you change any settings it is done so at your own risk that the game may not work as intended by the fixes.
 
 ---
 
