@@ -112,7 +112,7 @@ Allows entering resolutions such as:
 1920x1080
 
 ```
-The installer writes these directly to the game’s registry key.
+The ini writes these directly to the game’s registry key.
 
 # Suggestion 
 
