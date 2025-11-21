@@ -78,6 +78,7 @@ Adds:
 - Anti-aliasing
 - Anisotropic filtering
 - DX7 → DX9 translation
+- Optional Window mode -> can be set in dxwrapper.ini
 - Fix for the **thruster bug** on >60Hz monitors
   
 ---
