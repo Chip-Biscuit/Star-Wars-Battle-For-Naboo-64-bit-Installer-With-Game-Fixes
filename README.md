@@ -105,14 +105,6 @@ The installer automatically:
   
 ---
 
-### AlphaYellow’s Widescreen & FOV Fix
-Corrects the aspect ratio and field of view on all widescreen and ultrawide resolutions. Can be edited within (StarWarsEpisode1BattleForNabooFOVFix.ini):
-
-```
-Width=1920
-Height=1080
-
-```
 ### ChipResolution – Custom Resolution Support
 Allows entering resolutions such as:
 ```
@@ -120,21 +112,6 @@ Allows entering resolutions such as:
 
 ```
 The installer writes these directly to the game’s registry key.
-
-### ⚠️ Important – Resolution Values Must Match
-
-The resolution in **ChipResolution.ini**  
-(e.g. `Screen=1920x1080`)
-
-must always match the resolution in  
-**StarWarsEpisode1BattleForNabooFOVFix.ini**  
-(e.g. `Width=1920` and `Height=1080`)
-
-If these values do not match:
-
-- The game may render internally at one resolution  
-- The FOV/aspect ratio may be calculated for another  
-- This results in stretching, squashing, and incorrect FOV  
 
 # Suggestion 
 
@@ -154,8 +131,7 @@ Rebind controls inside the game’s options menu.
 ---
 
 # Credits
-
-- **AlphaYellow** — Widescreen & FOV Fix  
+ 
 - **Elisha Riedlinger** — DXWrapper  
 - **UCyborg** — Legacy D3D Resolution Hack  
 - **ThirteenAG** — Ultimate ASI Loader  
