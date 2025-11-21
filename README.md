@@ -70,7 +70,7 @@ Browse to the disc on the installer’s first page.
 
 # Features
 
-## Modern Fix Pack (Optional)
+## Modern Fix Pack (Optional)  Alternatively in the installer you can uncheck the option for the Fixes and install only the base game
 
 ---
 
