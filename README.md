@@ -135,7 +135,6 @@ Rebind controls inside the game’s options menu.
 - **Elisha Riedlinger** — DXWrapper  
 - **UCyborg** — Legacy D3D Resolution Hack  
 - **ThirteenAG** — Ultimate ASI Loader  
-- **Elisha / ThirteenAG** — D3D9 wrapper base  
 - **Chip** — Installer reconstruction, registry patching, modern fix integration, resolution override tool  
 
 ---
