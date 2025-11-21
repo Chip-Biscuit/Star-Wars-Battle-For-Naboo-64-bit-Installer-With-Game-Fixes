@@ -72,15 +72,6 @@ Browse to the disc on the installer’s first page.
 
 ## Modern Fix Pack (Optional)  Alternatively in the installer you can uncheck the option for the Fixes and install only the base game
 
----
-
-### UCyborg’s Legacy D3D Resolution Hack
-Unlocks modern GPU-reported resolutions including:
-- 1080p
-- 1440p
-- Ultrawide
-- Full native 4K
---- 
 
 ### ElishaCloud’s DXWrapper (D3D7 → D3D9)
 Adds:
@@ -95,6 +86,15 @@ Adds:
 Automatically loads all included `.asi` plugins located in `data_pc/plugins/`.
 
 ---
+
+### UCyborg’s Legacy D3D Resolution Hack
+Unlocks modern GPU-reported resolutions including:
+- 1080p
+- 1440p
+- Ultrawide
+- Full native 4K
+  
+--- 
 
 ### Full Folder Permission Repair
 The installer automatically:
